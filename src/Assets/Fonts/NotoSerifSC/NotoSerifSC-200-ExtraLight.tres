@@ -1,0 +1,9 @@
+[gd_resource type="FontVariation" load_steps=2 format=3 uid="uid://dodwu78asajvc"]
+
+[ext_resource type="FontVariation" uid="uid://baucxrd0nfjlj" path="res://Assets/Fonts/NotoSerifSC/NotoSerifSC-300-Light.tres" id="1_qpvlw"]
+
+[resource]
+base_font = ExtResource("1_qpvlw")
+variation_opentype = {
+2003265652: 200
+}
